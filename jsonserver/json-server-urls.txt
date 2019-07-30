@@ -1,0 +1,18 @@
+GET ALL BOOKS
+http://localhost:3000/books
+
+GET SINGLE BOOK
+http://localhost:3000/books/1
+
+PAGINATION & LIMIT
+http://localhost:3000/books?_page=1&_limit=2
+
+SORTING
+http://localhost:3000/books?_sort=author&_order=asc
+
+BOOKS PUBLISHED AFTER THE MENTIONED YEAR
+http://localhost:3000/books?year_gte=1958
+http://localhost:3000/books?year_gte=1958&year_lte=1966
+
+FULL TEXT SEARCH
+http://localhost:3000/books?q=Chinua
