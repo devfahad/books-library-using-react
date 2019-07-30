@@ -9,3 +9,5 @@ This is a small react app which renders list of books that are available in a fa
 - Run the books-app using this command at port != 3000:
 
 		npm start
+		
+<img src="screenshot.png">
