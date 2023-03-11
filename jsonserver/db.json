@@ -760,15 +760,11 @@
       "year": 100
     },
     {
-      "id": 72,
-      "author": "Fernando Pessoa",
-      "country": "Portugal",
-      "imageLink": "images/the-book-of-disquiet.jpg",
-      "language": "Portuguese",
-      "link": "https://en.wikipedia.org/wiki/The_Book_of_Disquiet\n",
-      "pages": 272,
       "title": "The Book of Disquiet",
-      "year": 1928
+      "author": "Fernando Pessoa",
+      "pages": 272,
+      "link": "https://en.wikipedia.org/wiki/The_Book_of_Disquiet\n",
+      "id": 72
     },
     {
       "id": 73,
